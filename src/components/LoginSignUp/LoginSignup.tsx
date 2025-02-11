@@ -5,10 +5,6 @@ import { MdEmail } from "react-icons/md";
 import { useState } from 'react';
 
 
-
-
-
-
 export const LoginSignup = () => {
     const [action, setAction] = useState("Login");
 
